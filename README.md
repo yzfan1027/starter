@@ -8,7 +8,9 @@ t
 ---
 
 # Resource
-- 報告 (PDF)：[report.pdf](report.pdf)
+- Cuda coarse: [連結]((https://github.com/Infatoshi/cuda-course))
+- Linux 核心設計 (Linux Kernel Internals)
+: [連結](https://wiki.csie.ncku.edu.tw/linux/schedule)、
+[YT](https://www.youtube.com/watch?v=Y9Rj20Et1HM&t=22s)
   
-- [專題成果展示](https://www.csie.ncue.edu.tw/csie/3th_grade_project_form/project.php?id=group_114_01)
 ---
